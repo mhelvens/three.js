@@ -43,7 +43,6 @@
 	"src/materials/MeshNormalMaterial.js",
 	"src/materials/MeshFaceMaterial.js",
 	"src/materials/SpriteMaterial.js",
-	"src/materials/SpriteCanvasMaterial.js",
 	"src/textures/Texture.js",
 	"src/textures/DataTexture.js",
 	"src/textures/VideoTexture.js",
@@ -53,11 +52,5 @@
 	"src/objects/Bone.js",
 	"src/objects/Skeleton.js",
 	"src/objects/Sprite.js",
-	"src/scenes/Scene.js",
-	"src/renderers/CanvasRenderer.js",
-	"src/renderers/renderables/RenderableVertex.js",
-	"src/renderers/renderables/RenderableFace.js",
-	"src/renderers/renderables/RenderableObject.js",
-	"src/renderers/renderables/RenderableSprite.js",
-	"src/renderers/renderables/RenderableLine.js"
+	"src/scenes/Scene.js"
 ]
